@@ -1,4 +1,6 @@
-# Une page de login
+# Login page
+
+Cette page à pour fonctionnalité de permettre à un utilisateur d'accéder à l'app
 
 ## Features
 

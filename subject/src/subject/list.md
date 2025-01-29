@@ -1,6 +1,6 @@
-# Register page
+# List page
 
-Cette page à pour fonctionnalité de permettre à un utilisateur de pouvoir ce créer un compte
+Cette page à pour fonctionnalité de permettre à un utilisateur de visionner tous ces groupes de todo
 
 ## Features
 

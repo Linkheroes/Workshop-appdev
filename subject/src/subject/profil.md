@@ -1,6 +1,6 @@
-# Register page
+# Profil page
 
-Cette page à pour fonctionnalité de permettre à un utilisateur de pouvoir ce créer un compte
+Cette page à pour fonctionnalité de permettre à un utilisateur de visionner ces informations, les modifier ainsi que de supprimer ou de ce déconnecter de son compte
 
 ## Features
 
