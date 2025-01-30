@@ -22,7 +22,7 @@ Il faudra qu'au click sur le bouton "Modifier mes informations" et après la vé
 
 Lors du clique sur le bouton de déconnexion supprimer les données locale et redirigé sur la page de login.
 
-Lors du clique sur le bouton de suppresion de compte avoir le même comportement que celui de déconnexion
+Lors du clique sur le bouton de suppresion de compte avoir le même comportement que celui de déconnexion dans notre cas car nous n'avons pas de base de données
 
 **⚠️ Veillez à enregistré l'email en local pour pouvoir le réutilisé plus tard.**
 
