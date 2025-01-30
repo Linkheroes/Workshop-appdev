@@ -1,76 +1,31 @@
 # Workshop - AppDev
 
-Welcome to the "AppDev" workshop! This guide provides the necessary instructions to install Node.js on different operating systems. Node.js is a crucial platform for modern application development.
+Durant ce workshop vous aurez la possibilité de choisir parmis 2 technos différentes (Swift et Ionic) pour un sujet.
 
-## Prerequisites
-Before starting, ensure you have administrator access to your system to install software.
+Dans ce workshop votre but sera de créer une application mobile avec la technologies de votre choix.
 
----
+Vous pouvez allé plus loin que ce le sujet proposé et je vous invitons à le faire pour élargir votre connaisance sur le developpement Mobile. (Spoiler ça peut être utile pour AREA en tek3)
 
-## Installing Node.js
+**⚠️ Le sujet Swift est uniquement réservé au personne possédant un Macbook Air, Macbook Pro, (l'Imac du hub 1 personne dessus)**
 
-### Windows
-1. Visit the official Node.js website: [https://nodejs.org/](https://nodejs.org/).
-2. Click on the "Windows Installer" button to download the installer (.msi file).
-3. Run the installer and follow the instructions:
-    - Accept the terms of the license agreement.
-    - Choose an installation location.
-    - Enable the option "Automatically install the necessary tools" (optional but recommended).
-4. After installation, open a command prompt (Cmd or PowerShell) and verify the installed version:
-    ```
-    node -v
-    npm -v
-    ```
+## Ionic
 
-### Ubuntu
-1. Update the package list:
-    ```bash
-    sudo apt update
-    sudo apt upgrade
-    ```
-2. Install Node.js via the "NodeSource" package manager:
-    ```bash
-    curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-    sudo apt install -y nodejs
-    ```
-3. Verify the installed version:
-    ```bash
-    node -v
-    npm -v
-    ```
+Ionic est un framework mobile permettant le développement d'application mobile dite hybride.
 
-### Fedora
-1. Add the official NodeSource repository:
-    ```bash
-    curl -fsSL https://rpm.nodesource.com/setup_20.x | sudo bash -
-    ```
-2. Install Node.js:
-    ```bash
-    sudo dnf install -y nodejs
-    ```
-3. Verify the installed version:
-    ```bash
-    node -v
-    npm -v
-    ```
+C'est à dire que vous avez un seul code qui permet de définir le comportement d'une application android et IOS.
 
-### MacOS
-1. Install Homebrew if not already installed:
-    ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    ```
-2. Install Node.js with Homebrew:
-    ```bash
-    brew install node
-    ```
-3. Verify the installed version:
-    ```bash
-    node -v
-    npm -v
-    ```
+Ionic est compatible avec plusieurs framework web tels que React, Angular, Vue.
+
+Mais vous pouvez également utilisé uniquement Javascript sans aucune surcouche de framework web.
+
+Dans ce sujet vous allez utiliser Ionic avec le framework Angular.
 
 ---
 
-## Additional Resources
-- Official Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
-- Node.js Version Manager (NVM): [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+## Swift
+
+Swift est un langage propriétaire sur les OS d'Apple (MacOS, IpadOS, tvOS, IOS ou bien WatchOS)
+
+Swift permet uniquement de développé des applications pour les produits apple et ne permet pas à aujourd'hui de développé sur un autre type de device.
+
+Dans ce sujet vous utiliserez le SwiftUI qui permet la création d'application mobile mais il existe aussi le UIKit qui est également du Swift ou l'Objective-C.
