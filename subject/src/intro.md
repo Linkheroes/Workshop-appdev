@@ -1,10 +1,10 @@
 # Workshop - AppDev
 
-Durant ce workshop vous aurez la possibilité de choisir parmis 3 sujets différents sur 3 technos différentes (Swift, Ionic et Kotlin).
+Durant ce workshop vous aurez la possibilité de choisir parmis 2 technos différentes (Swift et Ionic) pour un sujet.
 
 Dans ce workshop votre but sera de créer une application mobile avec la technologies de votre choix.
 
-Vous pouvez allé plus loin que ce le sujet propose et nous vous invitons à le faire pour élargir votre connaisance sur le developpement Mobile. (Spoiler ça peut être utile pour AREA en tek3)
+Vous pouvez allé plus loin que ce le sujet proposé et je vous invitons à le faire pour élargir votre connaisance sur le developpement Mobile. (Spoiler ça peut être utile pour AREA en tek3)
 
 **⚠️ Le sujet Swift est uniquement réservé au personne possédant un Macbook Air, Macbook Pro, (l'Imac du hub 1 personne dessus)**
 
@@ -19,10 +19,6 @@ Ionic est compatible avec plusieurs framework web tels que React, Angular, Vue.
 Mais vous pouvez également utilisé uniquement Javascript sans aucune surcouche de framework web.
 
 Dans ce sujet vous allez utiliser Ionic avec le framework Angular.
-
----
-
-## Kotlin
 
 ---
 
