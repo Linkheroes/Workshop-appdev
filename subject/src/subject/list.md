@@ -4,26 +4,17 @@ Cette page à pour fonctionnalité de permettre à un utilisateur de visionner t
 
 ## Features
 
-- Quatre champs de texte (username, email, password et repassword)
-- Une vérification de ces champs selon les critères fournis dans le sujet
-- Un système d'erreur par alert, popup, toast
-
-## Critères de vérification des inputs
-
-- Un mot de passe d'au moin 12 caractères
-- Les deux mots de passes doivent être identique
-- Un email contenant au moin un @
+- Une liste déroulante avec le titre de la catégorie
+- Une barre de recherche permettant de chercher une catégorie spécifiques
 
 ## Comportement
 
-Cette page étant factice nous vous demandons pas d'intégrer un vrai système de création de compte.
+Au clique sur une catégorie on ouvre la page de détail.
 
-Il faudra qu'au click sur le bouton "Créer mon compte" et après la vérification des inputs nous soyons redirigé sur la page principale de l'app
+Lorque qu'on fait une recherche il y a un petit temps de délais factice pour simuler une vrai recherche
 
 **⚠️ Veillez à enregistré l'email en local pour pouvoir le réutilisé plus tard.**
 
 ## Pour aller plus loin
 
-Pour aller plus loin à la fin du sujet vous pouvez essayer d'intégrer un vrai système d'authentification en sauvegardant les données dans une base de données SQL ou NOSQL comme MySQL ou MongoDB qu'elle soit locale ou distante.
-
-Mais aussi intégrer un système d'authentification à travers Firebase qui intègre plusieurs système d'auth (Apple, Google, Facebook, email and password, etc...)
+Pour aller plus loin à la fin du sujet vous pouvez essayer d'intégrer une base de données SQL ou NOSQL comme MySQL ou MongoDB qu'elle soit locale ou distante pour récupérer des catégories de todo
