@@ -4,9 +4,9 @@ Durant ce workshop vous aurez la possibilité de choisir parmis 2 technos diffé
 
 Dans ce workshop votre but sera de créer une application mobile avec la technologies de votre choix.
 
-Vous pouvez allé plus loin que ce le sujet proposé et je vous invitons à le faire pour élargir votre connaisance sur le developpement Mobile. (Spoiler ça peut être utile pour AREA en tek3)
+Vous pouvez allé plus loin que ce le sujet proposé et je vous invite à le faire pour élargir votre connaisance sur le developpement Mobile. (Spoiler ça peut être utile pour AREA en tek3)
 
-**⚠️ Le sujet Swift est uniquement réservé au personne possédant un Macbook Air, Macbook Pro, (l'Imac du hub 1 personne dessus)**
+**⚠️ Le sujet Swift est uniquement réservé au personne possédant un Macbook Air, Macbook Pro ou l'Imac du hub (1 personne dessus)**
 
 ## Ionic
 
