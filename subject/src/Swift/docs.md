@@ -29,7 +29,7 @@ This guide covers the main SwiftUI components and concepts we'll use in this pro
 
 ### API Call Example
 
-````swift
+```swift
 // Model
 struct Todo: Codable {
     let id: Int
@@ -67,6 +67,7 @@ struct ContentView: View {
         }
     }
 }
+```
 
 ## Automatic Dark Mode and Light Mode
 
