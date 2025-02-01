@@ -5,7 +5,7 @@ This documentation describes the API endpoints available for your mobile applica
 ## Base URL
 
 ```
-https://your-api-domain.com/api
+https://workshop-appdev-j4voiqtff-linkheroes-projects.vercel.app/api/
 ```
 
 ## Available Endpoints
@@ -73,7 +73,8 @@ Returns all todos within a specific group.
         "title": "Complete project documentation",
         "description": "Write technical documentation for the mobile app",
         "status": "pending",
-        "created_at": "2024-03-20T10:30:00Z"
+        "created_at": "2024-03-20T10:30:00Z",
+        "topic_id": 1
     },
     {
         "id": 2,
@@ -81,6 +82,7 @@ Returns all todos within a specific group.
         "description": "Weekly team sync",
         "status": "completed",
         "created_at": "2024-03-20T11:30:00Z"
+        "topic_id": 1
     }
 ]
 ```
@@ -127,6 +129,7 @@ Returns details for a specific todo within a group.
     description: string;
     status: "pending" | "completed";
     created_at: string;
+    topic_id: number;
 }
 ```
 
