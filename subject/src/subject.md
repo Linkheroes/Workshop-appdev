@@ -1,14 +1,14 @@
-# Le sujet
+# The Project
 
-Vous allez créer une application de todolist en utilisant une api que je vous mets à disposition afin de recréer le maximum de fonctionnalitées listées ci dessous !
+You will create a todolist application using an API provided to you in order to recreate as many of the functionalities listed below as possible!
 
-- [API](./subject/api.md)
-- [Login page](./subject/login.md)
-- [Register page](./subject/register.md)
-- [List page](./subject/list.md)
-- [Details page](./subject/details.md)
-- [Profil page](./subject/profil.md)
+-   [API](./subject/api.md)
+-   [Login page](./subject/login.md)
+-   [Register page](./subject/register.md)
+-   [List page](./subject/list.md)
+-   [Details page](./subject/details.md)
+-   [Profile page](./subject/profil.md)
 
-N'hésitez pas à vous aidez des documentation de chaque langage ainsi que celle fournis dans le sujet qui regroupe les informations essentiels et les notions abordés dans ce workshop.
+Feel free to use both the documentation for each language and the one provided in the project, which gathers the essential information and topics covered in this workshop.
 
-**Encore une fois vous pouvez aller plus loin que le workshop !**
+**Once again, you can go beyond the workshop!**

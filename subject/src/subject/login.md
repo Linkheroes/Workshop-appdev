@@ -1,28 +1,28 @@
 # Login page
 
-Cette page à pour fonctionnalité de permettre à un utilisateur d'accéder à l'app
+This page is designed to allow a user to access the app
 
 ## Features
 
-- Deux champs de texte (un de type email et l'autre de type password)
-- Une vérification de ces champs selon les critères fournis dans le sujet
-- Un système d'erreur par alert, popup, toast
+-   Two text fields (one for email and one for password)
+-   Input verification based on the criteria provided in the subject
+-   An error reporting system using alerts, popups, or toasts
 
-## Critères de vérification des inputs
+## Input Verification Criteria
 
-- Un mot de passe d'au moin 12 caractères
-- Un email contenant au moin un @
+-   A password with at least 12 characters
+-   An email containing at least one '@'
 
-## Comportement
+## Behavior
 
-Cette page étant factice nous vous demandons pas d'intégrer un vrai système d'authentification.
+Since this page is a mock-up, you are not required to implement a real authentication system.
 
-Il faudra qu'au click sur le bouton "Se connecter" et après la vérification des inputs nous soyons redirigé sur la page principale de l'app
+When clicking the "Log in" button, and after the input verification, you should be redirected to the app's main page.
 
-**⚠️ Veillez à enregistré l'email en local pour pouvoir le réutilisé plus tard.**
+**⚠️ Make sure to save the email locally so that it can be used later.**
 
-## Pour aller plus loin
+## To Go Further
 
-Pour aller plus loin à la fin du sujet vous pouvez essayer d'intégrer un vrai système d'authentification en récupérant les données d'une base de données SQL ou NOSQL comme MySQL ou MongoDB.
+To extend beyond the subject, at the end of the project you can try to integrate a real authentication system by retrieving data from a SQL or NoSQL database such as MySQL or MongoDB.
 
-Mais aussi intégrer un système d'authentification à travers Firebase qui intègre plusieurs système d'auth (Apple, Google, Facebook, email and password, etc...)
+You can also integrate an authentication system using Firebase, which supports multiple authentication methods (Apple, Google, Facebook, email and password, etc...).

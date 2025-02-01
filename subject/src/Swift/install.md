@@ -1,9 +1,9 @@
-# Installation pour développer en Swift
+# Installation for Developing in Swift
 
-Pour développer des applications en SwiftUI, UIKit ou encore en objective-C il vous faudra installer XCode !
+To develop applications in SwiftUI, UIKit, or even Objective-C, you will need to install XCode!
 
-Pour ce faire je vous invite à vous rendre dans l'App Store présent sur votre Mac afin d'y rechercher XCode et de l'installer. 
+To do this, I invite you to go to the App Store on your Mac and search for XCode to install it.
 
-L'éditeur du logiciel est Apple donc peut de chance de vous tromper.
+The publisher of the software is Apple, so there is little chance of making an error.
 
-Vous pouvez également vous rendre sur ce [lien](https://apps.apple.com/fr/app/xcode/id497799835?mt=12) pour être sur de télécharger la bonne version 
+You can also visit this [link](https://apps.apple.com/fr/app/xcode/id497799835?mt=12) to be sure to download the correct version

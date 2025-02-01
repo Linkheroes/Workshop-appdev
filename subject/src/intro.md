@@ -1,31 +1,31 @@
 # Workshop - AppDev
 
-Durant ce workshop vous aurez la possibilité de choisir parmis 2 technos différentes (Swift et Ionic) pour un sujet.
+During this workshop, you will have the opportunity to choose between two different technologies (Swift and Ionic) for a project.
 
-Dans ce workshop votre but sera de créer une application mobile avec la technologies de votre choix.
+In this workshop, your goal is to create a mobile application using the technology of your choice.
 
-Vous pouvez allé plus loin que ce le sujet proposé et je vous invite à le faire pour élargir votre connaisance sur le developpement Mobile. (Spoiler ça peut être utile pour AREA en tek3)
+You can go beyond the proposed topic, and I encourage you to do so to expand your knowledge of mobile development. (Spoiler: this might come in handy for AREA in tek3)
 
-**⚠️ Le sujet Swift est uniquement réservé au personne possédant un Macbook Air, Macbook Pro ou l'Imac du hub (1 personne dessus)**
+**⚠️ The Swift topic is reserved exclusively for those who have a MacBook Air, MacBook Pro, or the hub's iMac (only one person allowed).**
 
 ## Ionic
 
-Ionic est un framework mobile permettant le développement d'application mobile dite hybride.
+Ionic is a mobile framework for developing so-called hybrid mobile applications.
 
-C'est à dire que vous avez un seul code qui permet de définir le comportement d'une application android et IOS.
+This means that you have a single codebase that defines the behavior for both Android and iOS applications.
 
-Ionic est compatible avec plusieurs framework web tels que React, Angular, Vue.
+Ionic is compatible with several web frameworks such as React, Angular, and Vue.
 
-Mais vous pouvez également utilisé uniquement Javascript sans aucune surcouche de framework web.
+But you can also use plain JavaScript without any additional web framework overlay.
 
-Dans ce sujet vous allez utiliser Ionic avec le framework Angular.
+In this workshop, you will use Ionic with the Angular framework.
 
 ---
 
 ## Swift
 
-Swift est un langage propriétaire sur les OS d'Apple (MacOS, IpadOS, tvOS, IOS ou bien WatchOS)
+Swift is a proprietary language on Apple's operating systems (macOS, iPadOS, tvOS, iOS, or watchOS).
 
-Swift permet uniquement de développé des applications pour les produits apple et ne permet pas à aujourd'hui de développé sur un autre type de device.
+Swift only allows the development of applications for Apple products and currently does not enable development for other types of devices.
 
-Dans ce sujet vous utiliserez le SwiftUI qui permet la création d'application mobile mais il existe aussi le UIKit qui est également du Swift ou l'Objective-C.
+In this workshop, you will use SwiftUI, which facilitates the creation of mobile applications, but there is also UIKit, which is also available in Swift or Objective-C.

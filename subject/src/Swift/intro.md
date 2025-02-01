@@ -1,7 +1,7 @@
 # Swift
 
-Swift est un langage propriétaire sur les OS d'Apple (MacOS, IpadOS, tvOS, IOS ou bien WatchOS)
+Swift is a proprietary language on Apple operating systems (macOS, iPadOS, tvOS, iOS, or WatchOS)
 
-Swift permet uniquement de développé des applications pour les produits apple et ne permet pas à aujourd'hui de développé sur un autre type de device.
+Swift exclusively allows the development of applications for Apple products and currently does not enable development for other types of devices.
 
-Dans ce sujet vous utiliserez le SwiftUI qui permet la création d'application mobile mais il existe aussi le UIKit qui est également du Swift ou l'Objective-C.
+In this subject, you will use SwiftUI which facilitates the creation of mobile applications; however, there is also UIKit, which is also written in Swift or Objective-C.

@@ -1,18 +1,18 @@
 # List page
 
-Cette page à pour fonctionnalité de permettre à un utilisateur de visionner tous ces groupes de todo
+This page is designed to allow a user to view all their todo groups.
 
 ## Features
 
-- Une liste déroulante avec le titre de la catégorie
-- Une barre de recherche permettant de chercher une catégorie spécifiques
+-   A dropdown list with the category title
+-   A search bar for finding a specific category
 
-## Comportement
+## Behavior
 
-Au clique sur une catégorie on ouvre la page de détail.
+When clicking on a category, the details page opens.
 
-Lorque qu'on fait une recherche il y a un petit temps de délais factice pour simuler une vrai recherche
+When performing a search, there is a slight artificial delay to simulate a real search.
 
-## Pour aller plus loin
+## To Go Further
 
-Pour aller plus loin à la fin du sujet vous pouvez essayer d'intégrer une base de données SQL ou NOSQL comme MySQL ou MongoDB qu'elle soit locale ou distante pour récupérer des catégories de todo
+To extend beyond the subject, at the end of the project you can try to integrate a SQL or NoSQL database such as MySQL or MongoDB, whether local or remote, to retrieve todo categories.

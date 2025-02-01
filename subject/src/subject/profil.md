@@ -1,31 +1,31 @@
-# Profil page
+# Profile page
 
-Cette page à pour fonctionnalité de permettre à un utilisateur de visionner ces informations, les modifier ainsi que de supprimer ou de ce déconnecter de son compte
+This page is designed to allow a user to view their information, modify it, and also delete or log out of their account.
 
 ## Features
 
-- Un champ de texte (email)
-- Une vérification de ces champs selon les critères fournis dans le sujet
-- Une photo de profil
-- Un bouton de suppresion de compte
-- Un bouton de déconnexion
+-   A text field (email)
+-   Input verification based on the criteria provided in the subject
+-   A profile picture
+-   An account deletion button
+-   A logout button
 
-## Critères de vérification des inputs
+## Input Verification Criteria
 
-- Un email contenant au moin un @
+-   An email containing at least one '@'
 
-## Comportement
+## Behavior
 
-Cette page étant factice nous vous demandons pas d'intégrer un vrai système de modification de compte.
+Since this page is a mock-up, you are not required to implement a real account modification system.
 
-Il faudra qu'au click sur le bouton "Modifier mes informations" et après la vérification des inputs que le nouvel email soit sauvegardé et que les données soit mises à jour localement.
+When clicking the "Modify my information" button, and after input validation, the new email should be saved and the data updated locally.
 
-Lors du clique sur le bouton de déconnexion supprimer les données locale et redirigé sur la page de login.
+When clicking the logout button, delete the local data and redirect to the login page.
 
-Lors du clique sur le bouton de suppresion de compte avoir le même comportement que celui de déconnexion dans notre cas car nous n'avons pas de base de données
+When clicking the account deletion button, perform the same actions as logging out, in our case since we do not have a database.
 
-**⚠️ Veillez à enregistré l'email en local pour pouvoir le réutilisé plus tard.**
+**⚠️ Make sure to save the email locally so that it can be used later.**
 
-## Pour aller plus loin
+## To Go Further
 
-Pour aller plus loin à la fin du sujet vous pouvez essayer d'intégrer un vrai système de modification de compte en modifiant les données dans une base de données SQL ou NOSQL comme MySQL ou MongoDB qu'elle soit locale ou distante.
+To extend beyond the subject, at the end of the project you can try to integrate a real account modification system by updating the data in a SQL or NoSQL database such as MySQL or MongoDB, whether local or remote.

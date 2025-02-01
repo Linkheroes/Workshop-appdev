@@ -1,11 +1,11 @@
 # Ionic
 
-Ionic est un framework mobile permettant le développement d'application mobile dite hybride.
+Ionic is a mobile framework that enables the development of so-called hybrid mobile applications.
 
-C'est à dire que vous avez un seul code qui permet de définir le comportement d'une application android et IOS.
+This means that you have a single codebase that defines the behavior of both Android and iOS applications.
 
-Ionic est compatible avec plusieurs framework web tels que React, Angular, Vue.
+Ionic is compatible with several web frameworks such as React, Angular, and Vue.
 
-Mais vous pouvez également utilisé uniquement Javascript sans aucune surcouche de framework web.
+But you can also use plain JavaScript without any additional web framework layer.
 
-Dans ce sujet vous allez utiliser Ionic avec le framework Angular.
+In this workshop, you will use Ionic with the Angular framework.

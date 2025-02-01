@@ -1,68 +1,82 @@
-# Installation pour développer avec Ionic
+# Installation for Developing with Ionic using NVM
 
-## Prerequisites
-Before starting, ensure you have administrator access to your system to install software.
+In this guide, we will prioritize installing NVM (Node Version Manager) and then use it to install the latest version of Node.js.
 
 ---
 
-## Installing Node.js
+## Installing NVM and Node.js
+
+### macOS and Linux
+
+1. **Install NVM:**
+
+    Open your terminal and run the following command to install NVM:
+
+    ```bash
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+    ```
+
+    After installation, close and reopen your terminal, or source your profile:
+
+    ```bash
+    source ~/.bashrc   # Or ~/.bash_profile, ~/.zshrc depending on your shell
+    ```
+
+2. **Verify NVM Installation:**
+
+    Check that NVM is installed correctly by running:
+
+    ```bash
+    nvm --version
+    ```
+
+3. **Install the Latest Version of Node.js:**
+
+    Once NVM is installed, use it to install Node.js by executing:
+
+    ```bash
+    nvm install node
+    ```
+
+    This command installs the latest available version of Node.js.
+
+4. **Verify Node.js and NPM Versions:**
+
+    After installation, verify the installed versions:
+
+    ```bash
+    node -v
+    npm -v
+    ```
+
+---
 
 ### Windows
-1. Visit the official Node.js website: [https://nodejs.org/](https://nodejs.org/).
-2. Click on the "Windows Installer" button to download the installer (.msi file).
-3. Run the installer and follow the instructions:
-    - Accept the terms of the license agreement.
-    - Choose an installation location.
-    - Enable the option "Automatically install the necessary tools" (optional but recommended).
-4. After installation, open a command prompt (Cmd or PowerShell) and verify the installed version:
-    ```
-    node -v
-    npm -v
+
+For Windows, the preferred method is to use NVM for Windows.
+
+1. **Download NVM for Windows:**
+
+    Visit the [nvm-windows releases page](https://github.com/coreybutler/nvm-windows/releases) and download the latest installer (`nvm-setup.zip`).
+
+2. **Install NVM for Windows:**
+
+    Run the installer and follow the on-screen instructions.
+
+3. **Install the Latest Version of Node.js:**
+
+    Open Command Prompt or PowerShell and execute:
+
+    ```powershell
+    nvm install latest
+    nvm use latest
     ```
 
-### Ubuntu
-1. Update the package list:
-    ```bash
-    sudo apt update
-    sudo apt upgrade
-    ```
-2. Install Node.js via the "NodeSource" package manager:
-    ```bash
-    curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-    sudo apt install -y nodejs
-    ```
-3. Verify the installed version:
-    ```bash
-    node -v
-    npm -v
-    ```
+4. **Verify the Installation:**
 
-### Fedora
-1. Add the official NodeSource repository:
-    ```bash
-    curl -fsSL https://rpm.nodesource.com/setup_20.x | sudo bash -
-    ```
-2. Install Node.js:
-    ```bash
-    sudo dnf install -y nodejs
-    ```
-3. Verify the installed version:
-    ```bash
-    node -v
-    npm -v
-    ```
+    Check that Node.js and NPM are installed correctly:
 
-### MacOS
-1. Install Homebrew if not already installed:
-    ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    ```
-2. Install Node.js with Homebrew:
-    ```bash
-    brew install node
-    ```
-3. Verify the installed version:
-    ```bash
+    ```powershell
     node -v
     npm -v
     ```
@@ -70,5 +84,7 @@ Before starting, ensure you have administrator access to your system to install 
 ---
 
 ## Additional Resources
-- Official Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
-- Node.js Version Manager (NVM): [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
+-   Official NVM Repository (macOS/Linux): [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+-   NVM for Windows: [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+-   Official Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
